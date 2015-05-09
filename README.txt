@@ -1,7 +1,6 @@
-	Personal website
-
-
-	Used matreial below:
+	Tom cheng's personal website
+	
+	used open source projects below:
 	
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
@@ -14,3 +13,4 @@
 		jquery.scrolly (n33.co)
 		jquery.scrollzer (n33.co)
 		skel (n33.co)
+		typed.js(http://www.mattboldt.com/demos/typed-js/)
